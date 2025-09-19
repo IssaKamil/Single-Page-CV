@@ -1,11 +1,17 @@
 # Single Page CV
 
-A clean, responsive CV built with HTML only.
+A simple, responsive single-page CV template built with HTML. Easily customize your personal information, skills, education, and experience.
 
-## Live Demo
-🔗 Project URL: https://issakamil.github.io/Single-Page-CV/
+## Project Link
+🔗 Find this project on Roadmap.sh: Single-Page-CV
 
 ## Features
-- Semantic HTML structure
-- SEO meta tags in <head></head>
-- Clean layout
+- Clean and minimal design
+- Responsive layout for mobile and desktop
+- Sections for contact info, skills, education, experience, and online profiles
+
+## Usage
+1. Clone or download this repository.
+2. Open index.html in your favorite code editor.
+3. Replace the placeholder content with your own details.
+4. Open index.html in your browser to view your CV.
