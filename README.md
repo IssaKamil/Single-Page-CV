@@ -3,7 +3,7 @@
 A simple, responsive single-page CV template built with HTML. Easily customize your personal information, skills, education, and experience.
 
 ## Project Link
-🔗 Find this project on Roadmap.sh: Single-Page-CV
+🔗 Find this project on Roadmap.sh: [Single-Page-CV] (https://roadmap.sh/projects/single-page-cv)
 
 ## Features
 - Clean and minimal design
@@ -12,6 +12,6 @@ A simple, responsive single-page CV template built with HTML. Easily customize y
 
 ## Usage
 1. Clone or download this repository.
-2. Open index.html in your favorite code editor.
+2. Open `index.html` in your favorite code editor.
 3. Replace the placeholder content with your own details.
-4. Open index.html in your browser to view your CV.
+4. Open `index.html` in your browser to view your CV.
